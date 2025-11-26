@@ -1,9 +1,10 @@
-# Welcome to the Unistyles Ecosystem 🦄
+# Welcome to the Unistack ecosystem 🦄
 
-We build open-source tools for React Native developers.
+We build top-tier tools for React Native developers.
 
-### 🧩 Projects
+### 🧩 Products you might love:
 
-**[Uniwind](https://uniwind.dev)** - The fastest tailwind bindings for React Native.
+**[Uniwind](https://uniwind.dev)** - The fastest Tailwind bindings for React Native
 
 **[Unistyles](https://unistyl.es)** - Superset of StyleSheet
+
